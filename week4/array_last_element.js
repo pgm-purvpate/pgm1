@@ -1,3 +1,3 @@
 const array = ["Evelien", "Mathieu", "Thibault"]
 
-console.log(array[2]);
+console.log(array[array.length - 1]);
